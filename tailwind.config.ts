@@ -18,3 +18,11 @@ const config: Config = {
   plugins: [],
 }
 export default config
+
+
+// {
+//   "compilerOptions": {
+//     // options are here
+//   },
+//   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "env.d.ts"] // see the last entry in array
+// }
